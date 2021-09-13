@@ -5,7 +5,7 @@
 
 ---
 
-## :person_with_blond_hair: A Little About Me
+## :bust_in_silhouette: A Little About Me
    I am a Software Engineering Student at the University Of Waikato
    I love the internet, technology, cats and making solutions
 
