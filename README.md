@@ -1,4 +1,5 @@
-<div align="center">
+![Banner](https://i.imgur.com/1PeQdB4.jpeg)
+
 ### I'm Skwangles
 
 ## A Little About Me
@@ -29,5 +30,3 @@ I've taught myself a second language, Danish, for literally no practical reason.
 
 You can contact me [Here](mailto:skwangles@gmail.com?subject=[Contacting%20You%20From%20Github!]), or visit my Website at [Skwangles.com](Skwangles.com)
 
-
-</div>
