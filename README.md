@@ -31,5 +31,5 @@ I've taught myself a second language, Danish, for literally no practical reason.
 
 ---
 
-:mailbox_with_mail: You can contact me [Here](mailto:skwangles@gmail.com?subject=[Contacting%20You%20From%20Github!]), or visit my Website at [Skwangles.com](Skwangles.com)
+:mailbox_with_mail: You can contact me [Here](mailto:skwangles@gmail.com?subject=Contacting%20You%20From%20Github!), or visit my Website at [Skwangles.com](Skwangles.com)
 
