@@ -10,8 +10,8 @@
    I love the internet, technology, cats and making solutions
 
 ## :muscle: My Strengths?
- I am a proficent C#, Java, Javascript and Python user
- I enjoy back-end, software development and mobile development
+ I am a proficent C#, Java, Javascript and Python user.
+ I enjoy back-end, software development and mobile development.
 
 ## :speech_balloon: More About Me
   What are your hobbies?
@@ -20,8 +20,8 @@
   My dream job is to help make people's jobs easier by writing highly useful software and/or features.
 
 ## :chart_with_upwards_trend: Other things I'm doing to improve
-I’m looking to collaborate on back-end projects for webpages, or any desktop software
-I’m looking for help with the depth of my projects
+I’m looking to collaborate on back-end projects for webpages, or any desktop software.
+I’m looking for help with the depth of my projects.
 
 ## ⚡ Fun fact: 
 I've taught myself a second language, Danish, for literally no practical reason.
