@@ -19,7 +19,7 @@
 ## :briefcase: What's your dream job?
   My dream job is to help make people's jobs easier by writing highly useful software and/or features.
 
-## Other things I'm doing to improve
+## :chart_with_upwards_trend: Other things I'm doing to improve
 I’m looking to collaborate on back-end projects for webpages, or any desktop software
 I’m looking for help with the depth of my projects
 
