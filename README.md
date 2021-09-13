@@ -1,7 +1,8 @@
 ![Banner](https://i.ibb.co/sKJsN59/bannerimage.jpg)
 
-### I'm Skwangles
-
+<div align="center">
+# **I'm Skwangles**
+</div>
 ## A Little About Me
    I am a Software Engineering Student at the University Of Waikato
    I love the internet, technology, cats and making solutions
