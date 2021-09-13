@@ -1,4 +1,4 @@
-![Banner](https://ibb.co/K2zVfNx)
+![Banner](https://i.ibb.co/sKJsN59/bannerimage.jpg)
 
 ### I'm Skwangles
 
