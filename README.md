@@ -5,6 +5,10 @@
 
 ---
 
+![Generated Metrics](https://raw.githubusercontent.com/Skwangles/Skwangles/main/github-metrics.svg)
+
+
+
 ## :bust_in_silhouette: A Little About Me
    I am a Software Engineering Student in NZ
 
