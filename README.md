@@ -9,5 +9,5 @@
 
 [My Website](https://www.xanderstokes.com)
 
-:mailbox_with_mail: You can contact me [Here](mailto:skwangles@gmail.com?subject=Contacting%20You%20From%20Github!)
+:mailbox_with_mail: You can contact me [Here](mailto:github@XanderStokes.com?subject=Contacting%20You%20From%20Github!)
 
