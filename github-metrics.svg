@@ -171,7 +171,7 @@
                     <rect mask="url(#languages-bar)" x="235.81622866813976" y="0" width="89.2092050209205" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="325.02543368906026" y="0" width="73.80847162803818" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="398.8339053170984" y="0" width="18.454280475765128" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="417.28818579286354" y="0" width="16.74801372761036" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="417.28818579286354" y="0" width="16.74801372761036" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="434.0361995204739" y="0" width="13.058671430586244" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="447.09487095106016" y="0" width="12.905129048939871" height="8" fill="#C1F12E"/>
                 </svg>
@@ -208,7 +208,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2854,7 +2854,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 230m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 218m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
